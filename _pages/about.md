@@ -4,26 +4,25 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+[Qi Zhu] is a research intern at [SenseTime], focusing on human face and body detection. Before that, she was a research assistant at Northwestern Polytechnical University. Her research interests include visual and linguistic reasoning. She obtained her B.Eng. degree in Computer Science from Northwestern Polytechnical University in 2020, advised by [Prof. Peng Wang] and [Prof. Qi Wu].
 
-## Features
+## Education
+Northwestern Polytechnical University (Xi'an, China; 09/2016 — 06/2020) <br />
+B.Eng. in Computer Science and Technology
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Contact
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Github: [ZephyrZhuQi] <br />
+Email: [zephyrzhuqi@gmail.com]
+
+[Qi Zhu]: https://scholar.google.com/citations?user=BqZ4-QkAAAAJ&hl=en#
+[Sensetime]: https://www.sensetime.com/en
+[Prof. Peng Wang]: https://scholar.google.com.au/citations?user=aPLp7pAAAAAJ&hl=en
+[Prof. Qi Wu]: https://scholar.google.com.au/citations?user=aKXe1FEAAAAJ&hl=en
+[ZephyrZhuQi]: https://github.com/ZephyrZhuQi
+[zephyrzhuqi@gmail.com]: mailto:zephyrzhuqi@gmail.com
+
+
+
+
