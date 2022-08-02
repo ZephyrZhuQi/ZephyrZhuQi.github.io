@@ -9,7 +9,7 @@ pubs:
       journal: "Association for the Advancement of Artificial Intelligence"
       note:    "AAAI"
       year:    "2021"
-      url:     "https://arxiv.org/abs/2012.05153"
+      url:     "https://ojs.aaai.org/index.php/AAAI/article/view/16476"
       # doi:     "http://dx.doi.org"
       image:   "/images/ssbaseline.png"
       # media:
@@ -21,7 +21,7 @@ pubs:
       journal: "International Joint Conferences on Artificial Intelligence"
       note:    "IJCAI"
       year:    "2021"
-      url:     "https://arxiv.org/abs/2104.14741"
+      url:     "https://www.ijcai.org/proceedings/2021/92"
       # doi:     "http://dx.doi.org"
       image:   "/images/chop.png"
       # media:
@@ -34,7 +34,7 @@ pubs:
       journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
       # note:    "(presented at Oz)"
       year:    "2020"
-      url:     "https://arxiv.org/abs/2006.00753"
+      url:     "https://ieeexplore.ieee.org/document/9633153"
       # doi:     "http://dx.doi.org"
       image:   "/images/sma.png"
       # media:
